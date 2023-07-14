@@ -6,7 +6,7 @@
 
 We are given this string to decode. Looking at it shows its in hex format.
 
-To decrypt this flag, I used cyebrchef. 
+To decrypt this flag, I used cyberchef. 
 
 ![image](https://i.imgur.com/3mL602s.png)
 

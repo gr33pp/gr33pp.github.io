@@ -8,7 +8,7 @@ title:  CTFlearn
 
 * * *
 <h4 class="menu-header" id="ctflearn">CTFlearn</h4>
-[Imgur](https://i.imgur.com/kM98zrQ.png)
+![image](https://i.imgur.com/kM98zrQ.png)
 <hr>
 <hr>
 

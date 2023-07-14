@@ -4,7 +4,7 @@
 
 ![image](https://i.imgur.com/5kOycWi.png)
 
-We are given this string to decode.Looking at it shows its in hex format.
+We are given this string to decode. Looking at it shows its in hex format.
 
 To decrypt this flag, I used cyebrchef. 
 

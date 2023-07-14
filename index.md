@@ -9,7 +9,7 @@ title: Home
 ### Welcome To My Cyber Security Blog
 * * *
 
-Hi There, Welcome To My Cyber Security Blog I'm Ramon, I PostHacking That I Learn xD......
+Hi There, Welcome To My Cyber Security Blog
 
 * * *
 ### Whoami:~#

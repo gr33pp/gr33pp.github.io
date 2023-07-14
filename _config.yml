@@ -7,14 +7,9 @@ show_repo: false
 safe: true
 
 plugins:
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-seo-tag
-  - some-other-jekyll-plugin
-  
+- jekyll-sitemap
 gems:
-  - jekyll-sitemap
-
+- jekyll-sitemap
 whitelist:
-  - jekyll-sitemap
+- jekyll-sitemap
 

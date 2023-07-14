@@ -29,4 +29,4 @@ Hi There, Welcome To My Cyber Security Blog
 #### **Support Or Contact Me:~#**
 * * *
 
-Lets chat on Discord @`gr33pp` 
+Lets chat on Discord `@gr33pp` 

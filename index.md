@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a>
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a></h2>
 
 * * *
 ### Welcome To My Cyber Security Blog

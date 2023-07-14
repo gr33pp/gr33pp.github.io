@@ -12,5 +12,5 @@ title:  CTFlearn
 <hr>
 <hr>
 
-- [[July 14 2023]] [Character Encoding](https://gr33pp.github.io/posts/ctflearn/character-enc) `Cryptography`
+- [[July 14 2023]] [Character Encoding](https://gr33pp.github.io/posts/ctflearn/posts/character-enc) `Cryptography`
 

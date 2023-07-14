@@ -9,7 +9,7 @@ title: Home
 ### Welcome To My Cyber Security Blog
 * * *
 
-Hi There, Welcome To My Blog wh
+Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking anyways..
 
 * * *
 ### Whoami:~#

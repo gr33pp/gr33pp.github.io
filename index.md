@@ -17,7 +17,7 @@ Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking an
 
 - **My Name:**    `Ramon Bello`
 - **Also Known As:** `gr33pp`
-- **What Do I Do:**  `CTF / Ethical Hacking / Programming / Electronics Thinkering`
+- **What Do I Do:**  `CTF | Ethical Hacking | Programming | Electronics Thinkering`
 - **Twitter:** `https://twitter.com/gr33pp`
 - **Github:** `https://github.com/gr33pp`
 

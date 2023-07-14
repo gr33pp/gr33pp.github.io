@@ -24,7 +24,7 @@ Hi There, Welcome To My Cyber Security Blog
 * * *
 ### **CTFlearn Solutions:~#**
 * * *
-- [[Feb 14 2023]] [Character Encoding]() `Cryptography`
+- [[July 14 2023]] [Character Encoding](https://gr33pp.github.io/posts/ctflearn/posts/character-enc) `Cryptography`
 * * *
 #### **Support Or Contact Me:~#**
 * * *

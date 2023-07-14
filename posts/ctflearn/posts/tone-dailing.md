@@ -1,13 +1,3 @@
-you_know_what_to_do.wav
-
-https://i.imgur.com/hXDtX4M.png chal
-https://i.imgur.com/jYJhsB6.png decryp 
-https://i.imgur.com/nJL0CYN.png decoder
-
-flag CTFlean{CRYPTOGRAPHY}
-
-dtmf.netlify.app
-
 ### Tone Dailing 
 
 ### Difficulty = Easy

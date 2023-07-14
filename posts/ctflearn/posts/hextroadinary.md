@@ -12,7 +12,7 @@ Looking at the challenge instructions to look for clues, one that found my atten
 
 ![image](https://i.imgur.com/T4HI78F.png)
 
-After checking all results, they didnt produce any usable decipher. The XOR Cipher attracted my attention as the name "ROXy" and I began to search on possible cipher with XOR. The  fact that XOR can be used for checking the difference between two binary values made me search for XOR calculators
+After checking all results, they didnt produce any usable decipher. The XOR Cipher attracted my attention as the name "ROXy" and I began to search on possible cipher with XOR. The  fact that XOR can be used for checking the difference between two binary values made me search for XOR calculators.
 
 At the end of my search, I found this calculator xor.pw . And it gave the flag...
 

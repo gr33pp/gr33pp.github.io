@@ -36,6 +36,7 @@ Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking an
 - [[July 14 2023]] [Suspecious Message](https://gr33pp.github.io/posts/ctflearn/posts/suspecious) `Cryptography`
 - [[July 14 2023]] [HyperStream Test #2](https://gr33pp.github.io/posts/ctflearn/posts/hyperstream-test) `Cryptography`
 - [[July 15 2023]] [Gobustme ?](https://gr33pp.github.io/posts/ctflearn/posts/gobustme) `Web` `Enumeration`
+- [[July 15 2023]] [Gobustme ?](https://gr33pp.github.io/posts/ctflearn/posts/post-practice) `Web` `
   
 * * *
 ### **TryHackMe:~#**

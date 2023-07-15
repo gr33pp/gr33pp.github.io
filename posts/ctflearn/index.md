@@ -24,5 +24,5 @@ A platform where you can learn cybersecurity and ctf.
 - [[July 14 2023]] [Vigenere Cipher](https://gr33pp.github.io/posts/ctflearn/posts/vigenere) `Cryptography`
 - [[July 14 2023]] [Suspecious Message](https://gr33pp.github.io/posts/ctflearn/posts/suspecious) `Cryptography`
 - [[July 14 2023]] [HyperStream Test #2](https://gr33pp.github.io/posts/ctflearn/posts/hyperstream-test) `Cryptography`
-- [[July 14 2023]] [HyperStream Test #2](https://gr33pp.github.io/posts/ctflearn/posts/gobustme) `Web` `Enumeration`
+- [[July 14 2023]] [Gobustme ?](https://gr33pp.github.io/posts/ctflearn/posts/gobustme) `Web` `Enumeration`
 

@@ -40,7 +40,8 @@ Progress: 4712 / 4716 (99.92%)
 ===============================================================                          
 ```
 
-/flag directory looks more like it could be but /hide gave us the flag
+/flag directory looked more like it could be but /hide gave the flag
+
 ![Imgur](https://i.imgur.com/rrHdYSL.png)
 
 ![Imgur](https://i.imgur.com/pHknpCi.png)

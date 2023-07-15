@@ -21,6 +21,7 @@ A platform where you can learn cybersecurity and ctf.
 - [[July 14 2023]] [Tone dailing](https://gr33pp.github.io/posts/ctflearn/posts/tone-dailing) `Cryptography`
 - [[July 14 2023]] [Bruxor](https://gr33pp.github.io/posts/ctflearn/posts/bruxor) `Cryptography`
 - [[July 14 2023]] [Mordern Gaius Juius Caesar](https://gr33pp.github.io/posts/ctflearn/posts/modern-caesar) `Cryptography`
-
+- [[July 14 2023]] [Vigenere Cipher](https://gr33pp.github.io/posts/ctflearn/posts/vigenere) `Cryptography`
+- [[July 14 2023]] [Suspecious Message](https://gr33pp.github.io/posts/ctflearn/posts/suspecious) `Cryptography`
 
 

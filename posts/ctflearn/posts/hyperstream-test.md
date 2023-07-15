@@ -13,6 +13,6 @@ Trying to decrypt as binary didn't work out. I thought it was A = 0 and B = 1. A
 
 ![image](https://i.imgur.com/5Q1eWpY.png)
 
-Using dcode.fr, i was able to decrypt that. I got more assurance when I used the cipher identification function on the site
+Using dcode.fr, I was able to decrypt that. I got more assurance when I used the cipher identification function on the site
 
 flag ```ILOUEBACONDONTYOU```

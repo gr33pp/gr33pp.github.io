@@ -34,7 +34,8 @@ Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking an
 - [[July 14 2023]] [Mordern Gaius Juius Caesar](https://gr33pp.github.io/posts/ctflearn/posts/modern-caesar) `Cryptography`
 - [[July 14 2023]] [Vigenere Cipher](https://gr33pp.github.io/posts/ctflearn/posts/vigenere) `Cryptography`
 - [[July 14 2023]] [Suspecious Message](https://gr33pp.github.io/posts/ctflearn/posts/suspecious) `Cryptography`
-
+- [[July 14 2023]] [HyperStream Test #2](https://gr33pp.github.io/posts/ctflearn/posts/hyperstream-test) `Cryptography`
+  
 * * *
 ### **TryHackMe:~#**
 * * *

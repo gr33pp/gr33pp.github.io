@@ -16,7 +16,7 @@ Checking the site's source...
 We get the obvious user agent. ```Sup3rS3cr3tAg3nt```. Next, I used curl
 
 ```                                                                                        
-┌──(gr33pp㉿kali)
+┌──(gr33pp㉿machine)
 └─$ curl -A Sup3rS3cr3tAg3nt http://165.227.106.113/header.php 
 Sorry, it seems as if you did not just come from the site, "awesomesauce.com".
 <!-- Sup3rS3cr3tAg3nt  -->
@@ -25,7 +25,7 @@ Sorry, it seems as if you did not just come from the site, "awesomesauce.com".
 Setting my user agent as Sup3rS3cr3tAg3nt gave the next clue. This is requiring a referrer header of ```awesomsauce.com``` to proceed
 
 ```                                                                                                                         
-┌──(gr33pp㉿kali)
+┌──(gr33pp㉿machine)
 └─$ curl -A Sup3rS3cr3tAg3nt -e awesomesauce.com http://165.227.106.113/header.php 
 Here is your flag: flag{did_this_m3ss_with_y0ur_h34d}
 <!-- Sup3rS3cr3tAg3nt  -->

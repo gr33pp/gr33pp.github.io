@@ -1,20 +1,6 @@
 ---
 layout: default
-title: HomeGET /web8/?id=2 HTTP/2
-Host: web.ctflearn.com
-Cookie: _ga=GA1.2.1205454242.1689258609; __gads=ID=065b0c1ade0c78d7-2236ba4e3ce00013:T=1689258608:RT=1689430712:S=ALNI_MblLK9m49cTlH-uZ0k268OZM6BV7g; __gpi=UID=00000c68c7d9b5f6:T=1689258608:RT=1689430712:S=ALNI_Mbk6UXgdDL9ydzjOSvYw6p8TNeLEQ
-User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: https://web.ctflearn.com/web8/?id=1
-Upgrade-Insecure-Requests: 1
-Sec-Fetch-Dest: document
-Sec-Fetch-Mode: navigate
-Sec-Fetch-Site: same-origin
-Sec-Fetch-User: ?1
-Te: trailers
-
+title: Home
 ---
 
 <h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a></h2>

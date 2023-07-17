@@ -22,7 +22,7 @@ Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking an
 - **Github:** `https://github.com/gr33pp`
 
 * * *
-### *CTFlearn Solutions:~#*
+## **CTFlearn Solutions:~#**
 * * *
 - [[July 14 2023]] [Character Encoding](https://gr33pp.github.io/posts/ctflearn/posts/character-enc) `Cryptography`
 - [[July 14 2023]] [Base 2 2 the 6](https://gr33pp.github.io/posts/ctflearn/posts/base-two-two) `Cryptography`
@@ -41,7 +41,7 @@ Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking an
 - [[July 17 2023]] [Inj3ction Time](https://gr33pp.github.io/posts/ctflearn/posts/injection-time) `Web` `SQL injection`
 
 * * *
-### *TryHackMe:~#*
+## **TryHackMe:~#**
 * * *
 
 

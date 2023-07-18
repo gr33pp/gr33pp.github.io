@@ -6,10 +6,10 @@ title: Home
 <h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a></h2>
 
 * * *
-### Welcome To My Cyber Security Blog
+### Welcome To My Blog
 * * *
 
-Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking anyways..
+Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking anyways... Have a nice time!!
 
 * * *
 ### Whoami:~#

@@ -30,3 +30,4 @@ A platform where you can learn cybersecurity and ctf.
 - [[July 17 2023]] [Inj3ction Time](https://gr33pp.github.io/posts/ctflearn/posts/injection-time) `Web` `SQL injection`
 - [[July 17 2023]] [Calculat3 M3](https://gr33pp.github.io/posts/ctflearn/posts/calculate-me) `Web` `RCE?` `library`
 - [[July 18 2023]] [Substitution Cipher](https://gr33pp.github.io/posts/ctflearn/posts/sub-cipher) `Cryptography`
+- [[July 18 2023]] [5x5 Crypto](https://gr33pp.github.io/posts/ctflearn/posts/5by5) `Cryptography`

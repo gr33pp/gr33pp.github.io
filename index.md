@@ -40,6 +40,7 @@ Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking an
 - [[July 16 2023]] [Don't Bump Your Head(er)](https://gr33pp.github.io/posts/ctflearn/posts/header) `Web` `ssrf`
 - [[July 17 2023]] [Inj3ction Time](https://gr33pp.github.io/posts/ctflearn/posts/injection-time) `Web` `SQL injection`
 - [[July 17 2023]] [Calculat3 M3](https://gr33pp.github.io/posts/ctflearn/posts/calculate-me) `Web` `RCE?` `library`
+- [[July 18 2023]] [Substitution Cipher](https://gr33pp.github.io/posts/ctflearn/posts/sub-cipher) `Cryptography`
 
 * * *
 ## **TryHackMe:~#**

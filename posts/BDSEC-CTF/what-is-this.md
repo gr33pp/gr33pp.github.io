@@ -45,6 +45,4 @@ Success, it appended each file to flag_aa as they were named alphabetically...
 
 ![Image of merged photo](https://i.imgur.com/IPUfPg5.png)
 
-Flag: ```BDSEC{1tS_@_PnG_f1LE_}```
-
-[Back to Homepage](gr33pp.github.io)
+Flag: `BDSEC{1tS_@_PnG_f1LE_}`

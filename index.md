@@ -6,10 +6,10 @@ title: Home
 <h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/BDSEC-CTF/index.html">BDSEC-CTF</a></h2>
 
 * * *
-### Welcome To My Blog
+### Welcome
 * * *
 
-Hi There, Welcome To My Blog where i post any stuff i learn.. More of hacking anyways... Have a nice time!!
+Hi There, Welcome To My Blog/Archive where I post my hacktivities... Have a nice time!!
 
 * * *
 ### Whoami:~#

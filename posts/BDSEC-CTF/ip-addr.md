@@ -3,7 +3,7 @@
 
 ![image of challenge](https://i.imgur.com/NGeL5Vq.png)
 
-On opening the challenge.pcap file, it was a pretty big file. Well, the challenge was asking what the attacker and server ip was.
+On opening the challenge.pcapng file, it was a pretty big file. Well, the challenge was asking what the attacker and server ip was.
 
 ![image proof](https://i.imgur.com/mmJBoXe.png)
 

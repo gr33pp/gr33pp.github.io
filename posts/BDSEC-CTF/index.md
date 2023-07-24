@@ -2,6 +2,8 @@
 
 ![Image of BDSEC-CTF 2023](https://i.imgur.com/Md5p8Df.png)
 
+I attended this ctf with my friends :)
+
 ## **Challenges**
 
 - [[July 20 2023]] [What is This?](https://gr33pp.github.io/posts/BDSEC-CTF/what-is-this) `Misc`

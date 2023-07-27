@@ -17,7 +17,7 @@ I attended this ctf with my friends :)
 - [[July 21 2023]] [Follow the Path](https://gr33pp.github.io/posts/BDSEC-CTF/follow-path) `Networking`
 - [[July 21 2023]] [Compromised Account](https://gr33pp.github.io/posts/BDSEC-CTF/comp-acc) `Networking`
 - [[July 21 2023]] [Compromised Database](https://gr33pp.github.io/posts/BDSEC-CTF/comp-dbs) `Networking`
-- [[July 21 2023]] [Database Flag](https://gr33pp.github.io/posts/BDSEC-CTF/dbs-flag) `Networking`
+- [[July 21 2023]] [Database Flag](https://gr33pp.github.io/posts/BDSEC-CTF/dataflag) `Networking`
 - [[July 21 2023]] [Compromised Admin Account](https://gr33pp.github.io/posts/BDSEC-CTF/comp-admin-acc) `Networking`
 - [[July 21 2023]] [Crackable?](https://gr33pp.github.io/posts/BDSEC-CTF/crackable) `Networking`
 - [[July 21 2023]] [Was it Vulnerable?](https://gr33pp.github.io/posts/BDSEC-CTF/was-it-vulnerable) `Networking`

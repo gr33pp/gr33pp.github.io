@@ -46,7 +46,7 @@ Hi There, Welcome To My Blog/Archive where I post my hacktivities... Have a nice
 * * *
 ## **BDSEC-CTF:~#**
 * * *
- [[July 20 2023]] [What is This?](https://gr33pp.github.io/posts/BDSEC-CTF/what-is-this) `Misc`
+- [[July 20 2023]] [What is This?](https://gr33pp.github.io/posts/BDSEC-CTF/what-is-this) `Misc`
 - [[July 20 2023]] [What's Her Name?](https://gr33pp.github.io/posts/BDSEC-CTF/what-is-her-name) `OSINT`
 - [[July 20 2023]] [Old Client Area](https://gr33pp.github.io/posts/BDSEC-CTF/old-client-area) `OSINT`
 - [[July 21 2023]] [Operation Cyber Pursuit 0x00](https://gr33pp.github.io/posts/BDSEC-CTF/operation-cyber-pursuit-1) `OSINT`

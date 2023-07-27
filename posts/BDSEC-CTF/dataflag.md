@@ -1,4 +1,4 @@
-## Compromised Database
+## Database Flag
 ### Category: Networking
 
 ![Image of challenge](https://i.imgur.com/wReoZ2h.png)

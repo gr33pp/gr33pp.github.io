@@ -807,7 +807,7 @@ flag: `flag{9r3p_s4v3s_y0u_t1m3}`
 
 ![Imgur](https://i.imgur.com/rllStYE.png)                       
 
-I used binwalk on the zip file and I got a zip and some folders, extracting the zip gave some folders an image containing the flag string in it
+I used binwalk on the zip file and I got a zip and some folders, extracting the zip gave some folders and an image containing the flag string in it
 
 ![Imgur](https://i.imgur.com/Zlh6mj4.jpg)
 

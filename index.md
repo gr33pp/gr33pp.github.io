@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/BDSEC-CTF/index.html">BDSEC-CTF</a></h2>
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ctflearn/index.html">CTFlearn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/BDSEC-CTF/index.html">BDSEC-CTF</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ecowas-ctf">ECOWAS CTF quals</a></h2>
 
 * * *
 ### Welcome
@@ -65,7 +65,7 @@ Hi There, Welcome To My Blog/Archive where I post my hacktivities... Have a nice
 - [[July 21 2023]] [Port](https://gr33pp.github.io/posts/BDSEC-CTF/port) `Networking`
 
 * * *
-## **ECOWAS CTF:~#**
+## **ECOWAS CTF quals:~#**
 * * *
 - [[August 14-31 2023]] [Writeup](https://gr33pp.github.io/posts/ecowas-ctf/writeup)
 

@@ -1,4 +1,4 @@
-
+# Writeup for ECOWAS CTF QUALS
 
 # netcat
 ## Category: warmup

@@ -95,6 +95,7 @@ flag: `uctf{St. Mary Church}`
 
 ### Deleted Message
 ![Imgur](https://i.imgur.com/5EPHNME.png)
+
 > Cyber Police have seized a computer containing illegal content, but the data stored is secured with a password.
  A member of the criminal organization owning the computer was  arrested. Police suspect that the password was sent to the criminal via  SMS, but the message was deleted right before the arrest.
 > You're given a dump of the data partition of the phone (running  Android 6.0). Your job as the forensic specialist is to recover the  deleted password.
@@ -109,6 +110,7 @@ flag: `uctf{l057_1n_urm14}`
 
 ### Network Punk
 ![Imgur](https://i.imgur.com/ogvzT7C.png)
+
 > Some cyberpunk hide the flag inside a  network traffic. We have dumped the traffic. Your task is to find the  flag to save the city.
 
 Attachment: traffic.pcap
@@ -153,5 +155,82 @@ File attached: Mansion.jpg
 
 (Check the name of the building for yourself : )
  
- flag: `UCTF{37.496805716848954, 45.63767444207702}`
+flag: `UCTF{37.496805716848954, 45.63767444207702}`
 
+### Dorna
+![Imgur](https://i.imgur.com/bJ7XTJF.png)
+
+I'm hiding somewhere. Find me if you can!!  if you need a password anywhere use this "urumdorn4"
+
+Attachment: Dorna.jpg 
+ 
+Thinking of image steganography, Steghide is one that requires password. So, I tried using Steghide and I got a txt file `dorn4.txt` as output.
+ 
+Content of dorn4.txt:
+ 
+```
+
+Hello, wish you success in our event
+
+'dorna lar yovasi' is the nickname of a stadium in Urmia where volleyball lovers gather together.
+This place has hosted important competitions such as the VNL and the Asian Championship.
+
+flag : uctf{ZG9ybmFfbGFyX3lvdmFzaQ==}    *base64-encoded
+ 
+ ```
+ 
+flag is given but the main text encoded in base64. Decryption gave the flag
+ 
+flag `uctf{dorna_lar_yovasi}`
+
+### Deb File The Old Systems
+![Imgur](https://i.imgur.com/2fLftLg.png)
+
+> Can you believe it? people still use linux?  after the emerge of Evil E computers, nobody bothered to use linux  systems. anyways, we got this file from database gaurds' pc, can you  help us?
+
+Attachment: uctfdeb-0.0.1.deb
+
+This is a debian package installation file . To figure out what it contains, I extracted it as an archive.
+
+It contains two directories DEBIAN and usr, usr contains the binary and the DEBIAN contains `postinst` binary and `control` text file. 
+
+Content of control:
+
+```
+
+Package: uctfdeb
+Version: 0.0.1
+Homepage: https://uctf.ir
+Maintainer: UCTF Support https://t.me/uctf_support_bot
+Architecture: amd64
+Description: You can find the flag in your tmp directory under UCTFDEB folder
+    only after installation!
+
+```
+
+So I proceeded with the instructions. The binary generates a temporary file and saves it in the /tmp/UCTFDEB/dont-delete-me folder .
+
+flag: `UCTF{c4n_p3n6u1n5_5urv1v3_1n_54l7_w473r}`
+
+### Insider's Secret
+![Imgur](https://i.imgur.com/qYLJp47.png)
+
+> "Craving a peek into my mysterious identity vault? Flex your decryption muscles and tackle this challenge:"
+> Vm14V1QxWldTblZqTTJoWlpXeEtNRmRJY0VaTlIwWTJWRzFhYTFaRmNEQlVWbEpUVDFFOVBRPT0=
+ 
+ Passing it through base64 four times brought the flag to life.
+ 
+ flag: `UCTF{1_4m_14k3_u2m14}`
+
+### captcha2 the Missing Lake 2
+![Imgur](https://i.imgur.com/jgdGfnn.png)
+
+> Sorry for bothering you again! We forgot to  retrieve some valuable assets the last time. They have changed their  captcha system, I think they know that we know about OCRs :)
+
+From the first captcha challenge, I deduced the url https://captcha1.uctf.ir/  to captcha2*
+
+I did the 100 captchas available manually!! Do not panic!!.  My teammate wrote a script to sort it :)  [LINK](https://github.com/SENSEIXENUS2/Ctf-writeupsScripts/blob/main/UctfWriteups/captcha2.py)
+
+flag: UCTF{Arm3n1an_m0uflon}
+
+And.. Done

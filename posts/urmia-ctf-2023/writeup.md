@@ -60,7 +60,7 @@ The secret key is "salt". I inputted salt to confirm if it's correct or not.
 
 ![Imgur](https://i.imgur.com/ORWIqKf.png)
 
-Next, i found the md5 of “salt”, which is , `ceb20772e0c9d240c75eb26b0e37abee`
+Next, I did the md5 of “salt”, which is , `ceb20772e0c9d240c75eb26b0e37abee`
 
 flag: UCTF{ceb20772e0c9d240c75eb26b0e37abee}
 
@@ -89,7 +89,7 @@ The zip file unzipped gave `stream-ctf.vhd` file which was `Microsoft Disk Image
 
 I loaded Autopsy to see if I can find files in it. I found 2 files related to the flag; flag.zip and flag.zip:look-behind.
 
-SInce files are arranged alphabetically on autopsy, I indeed looked behind. Flag.zip was a text file containing `password:Atoosa` while `flag.zip:look-behind` was an actual zip file. I extracted the content with the provided password and I got `uctf_flag.txt` file which contains the flag.
+Since files are arranged alphabetically on autopsy, I indeed looked behind. Flag.zip was a text file containing `password:Atoosa` while `flag.zip:look-behind` was an actual zip file. I extracted the content with the provided password and I got `uctf_flag.txt` file which contains the flag.
 
 flag: `uctf{St. Mary Church}`
 
@@ -113,7 +113,45 @@ flag: `uctf{l057_1n_urm14}`
 
 Attachment: traffic.pcap
 
-I didn't bother to open it. I ran strings and found junks in the output, I ran strings again in full screm and I saw that it formed the text of the flag
+I didn't bother to open it. I ran strings and found junks in the output, I ran strings again in full screen and I saw that it did formed the text of the flag
 
+![Imgur](https://i.imgur.com/jgntomo.png)
 
 flag: `uctf{urm14_n3tw0rk}`
+
+### Cryptic Mansion
+> 🏰 Cryptic Mansion
+> 🕵️‍♂️ Welcome, intrepid digital detectives, to the "Cryptic Mansion"  challenge! Are you ready to put your OSINT skills to the ultimate test?  Get ready to embark on a virtual journey that will lead you through  twists and turns, all while unveiling the secrets hidden within a single  image.
+ 
+> Challenge Description:
+> Nestled within the pixels of a single image lies the enigmatic  "Cryptic Mansion." Your mission, should you choose to accept it, is to  reveal the well-guarded location of this elusive villa. You might be  thinking, "How hard could it be to find a villa?" But this isn't just  any villa—it's cloaked in mystery, designed to challenge even the most  seasoned OSINT adventurers.
+ 
+> The Image:
+> Before you stands a captivating image of a luxurious villa. The  details are alluring, but don't be fooled by appearances. This image  holds the key to a virtual realm that conceals the villa's true  whereabouts. A single image, they say, can contain a thousand secrets,  and it's your task to extract them.
+ 
+> The Quest:
+>  Your first step is to deploy reverse image search tools, carefully  analyzing each pixel for traces that will lead you on this thrilling  journey. You'll delve into the depths of the web, employing your skills  to uncover the origin, the history, and the real-world counterpart of  this captivating mansion.
+ 
+> Unveiling the Flag:
+> 🏆 Victory awaits those who successfully unveil the Cryptic Mansion's  exact location. As you navigate the labyrinth of data, keep an eye out  for the golden key—a distinctive link that opens the gates to Google  Maps. Within this link, you'll discover the latitude and longitude  coordinates that pinpoint the villa's precise location.
+
+> When you find the Google Maps link, it will have a structure like this:
+> https://goo.gl/maps/VMdjyjA7xs8E2E5s6
+> Extract the latitude and longitude from the link. For example, latitude is 37.123456789012345, and longitude is 45.987654321098765.
+> Then, use these coordinates to construct the flag in the following format:
+> UCTF{37.123456789012345, 45.987654321098765}
+> This challenge not only tests your OSINT prowess but also your  geolocation skills. Are you ready to showcase your expertise in  pinpointing the exact location of the Cryptic Mansion?
+> Now, the example flag contains random values with the exact numbers after the decimal point.
+> This is more than just a challenge; it's an opportunity to showcase  your OSINT prowess, outsmarting the virtual world's intricate puzzles to  emerge as the ultimate Cryptic Mansion conqueror.
+> Are you ready to embark on a journey through pixels and  pathways? Will you unravel the hidden truths of the villa's location?  The Cryptic Mansion awaits your investigative finesse. Good luck,  digital detectives!
+ 
+File attached: Mansion.jpg
+
+![Imgur](https://i.imgur.com/zSVOewE.jpg)
+ 
+ I started by doing a reverse image search using Tineye.com. I got the name of the building through an article then I searched on google maps for the building coordinates. Coordinates: 37.496805716848954, 45.63767444207702 .
+
+(Check the name of the building for yourself : )
+ 
+ flag: `UCTF{37.496805716848954, 45.63767444207702}`
+

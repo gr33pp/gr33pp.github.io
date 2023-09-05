@@ -233,4 +233,6 @@ I did the 100 captchas available manually!! Do not panic!!.  My teammate wrote a
 
 flag: UCTF{Arm3n1an_m0uflon}
 
-And.. Done
+And.. Check out the continuation on [HERE](https://github.com/SENSEIXENUS2/Ctf-writeupsScripts/blob/main/UctfWriteups/Writeup.md) and [HERE](https://h4ckyou.github.io/posts/ctf/uctf/writeup.html) its very important to check the two out..
+
+Thanks for reading.. 

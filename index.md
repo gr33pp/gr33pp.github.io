@@ -67,9 +67,9 @@ Hi There, Welcome To My Blog/Archive where I post my hacktivities... Have a nice
 * * *
 ## **ECOWAS CTF quals:~#**
 * * *
-- [[August 14-31 2023]] [Writeup](https://gr33pp.github.io/posts/ecowas-ctf/writeup)
+- [[August 14-31 2023]] [Writeup](https://gr33pp.github.io/posts/ecowas-ctf/writeup) `Web` `Networking` `Cryptography` `Forensics`
 
-* * *
+* * * 
 ## **Urmia CTF 2023:~#**
 * * * 
 - [[September 2 2023]] [Writeup](https://gr33pp.github.io/posts/urmia-ctf-2023/writeup)

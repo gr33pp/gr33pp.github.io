@@ -216,8 +216,7 @@ flag: `UCTF{c4n_p3n6u1n5_5urv1v3_1n_54l7_w473r}`
 ![Imgur](https://i.imgur.com/qYLJp47.png)
 
 > "Craving a peek into my mysterious identity vault? Flex your decryption muscles and tackle this challenge:"
-> 
-> Vm14V1QxWldTblZqTTJoWlpXeEtNRmRJY0VaTlIwWTJWRzFhYTFaRmNEQlVWbEpUVDFFOVBRPT0=
+> "Vm14V1QxWldTblZqTTJoWlpXeEtNRmRJY0VaTlIwWTJWRzFhYTFaRmNEQlVWbEpUVDFFOVBRPT0="
  
  Passing it through base64 four times brought the flag to life.
  

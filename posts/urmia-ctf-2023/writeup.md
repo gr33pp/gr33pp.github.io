@@ -13,13 +13,18 @@ Solved Challenges:
 
 - ### OSINT
 -  Cryptic Mansion
+
 ### Steganography
 -  Dorna
 -  Deb File The Old Systems
+  
 ### Cryptography
 -  Insider's Secret
+  
 ### Web
 -   captcha2 the Missing Lake 2
+
+  
 ### Warm Up
 Category: Warmup
 

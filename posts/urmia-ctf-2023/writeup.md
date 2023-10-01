@@ -13,7 +13,7 @@ Solved Challenges:
 -  Deleted Message
 -  Network Punk
 
-- ### OSINT
+### OSINT
 -  Cryptic Mansion
 
 ### Steganography

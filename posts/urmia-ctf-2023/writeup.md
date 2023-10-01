@@ -244,6 +244,7 @@ flag `uctf{dorna_lar_yovasi}`
 
 ### Deb File The Old Systems
 Category: Steganography
+
 ![Imgur](https://i.imgur.com/2fLftLg.png)
 
 > Can you believe it? people still use linux?  after the emerge of Evil E computers, nobody bothered to use linux  systems. anyways, we got this file from database gaurds' pc, can you  help us?
@@ -272,6 +273,7 @@ flag: `UCTF{c4n_p3n6u1n5_5urv1v3_1n_54l7_w473r}`
 
 ### Insider's Secret
 Category: Cryptography
+
 ![Imgur](https://i.imgur.com/qYLJp47.png)
 
 > "Craving a peek into my mysterious identity vault? Flex your decryption muscles and tackle this challenge:"
@@ -292,6 +294,7 @@ UCTF{1_4m_14k3_u2m14}
  flag: `UCTF{1_4m_14k3_u2m14}`
 
 ### captcha2 the Missing Lake 2
+
 ![Imgur](https://i.imgur.com/jgdGfnn.png)
 
 > Sorry for bothering you again! We forgot to  retrieve some valuable assets the last time. They have changed their  captcha system, I think they know that we know about OCRs :)

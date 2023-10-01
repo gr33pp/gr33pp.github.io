@@ -108,10 +108,10 @@ Category: Forensics
 Attached file: stream-ctf.zip
 Summary: You have to open a Microsoft Disk Image and retrieve the flag
 
-###### Unzipping the ZIP
+#### Unzipping the ZIP
 The zip file unzipped gave `stream-ctf.vhd` file which was a `Microsoft Disk Image, Virtual Server or Virtual PC, Creator win  a.0 (W2k) Tue Aug 15 07:26:30 2023, 33554432 bytes, CHS 963/4/17` (file command).
 
-###### Digging for files
+#### Digging for files
 I loaded Autopsy to see if I can find files in it. I found 2 files related to the flag; flag.zip and flag.zip:look-behind.
 Since files are arranged alphabetically on autopsy, I indeed looked behind. Flag.zip was a text file containing `password:Atoosa` while `flag.zip:look-behind` was an actual zip file. I extracted the content with the provided password and I got `uctf_flag.txt` file which contains the flag.
 
@@ -125,7 +125,7 @@ Category: Forensics
 > Cyber Police have seized a computer containing illegal content, but the data stored is secured with a password. A member of the criminal organization owning the computer was  arrested. Police suspect that the password was sent to the criminal via  SMS, but the message was deleted right before the arrest. You're given a dump of the data partition of the phone (running  Android 6.0). Your job as the forensic specialist is to recover the  deleted password.
  
  Attachment: data.tar.gz
-###### Data extraction
+#### Data extraction
 I extracted the tar gzip file which contains the data partition of the phone. App data is normally stored in the data directory, so I went for it first. I found com.android.messaging.
  
 For messsages, there was a `databases` directory and we have `bugle_db-journal` and `bugle_db` which contains the database of messages. I found the flag in table `parts` and column `texts`
@@ -179,7 +179,7 @@ File attached: Mansion.jpg
 ![Imgur](https://i.imgur.com/zSVOewE.jpg)
  Mansion.jpg
 
-###### Mansion, where are you??
+#### Mansion, where are you??
 
 I started by doing a reverse image search using tineye.com. I got the name of the building through an article by **asriran.com**. The site language was in Persian and I used google webpage translate to get it in English (I don't understand Persian :P). 
 
@@ -188,7 +188,7 @@ The article called this building **the Villa of Ashraf Pahlavi and Behrouz Vosto
 ![Article](https://i.imgur.com/BBWpoes.png)
 Screenshot from Translated article
 
-###### Give me your number o‿O
+#### Give me your number o‿O
 I searched on google maps for the villa, I ended up with this coordinates which can be gotten by right-clicking on the map pin. Coordinates: 37.496805716848954, 45.63767444207702 .
 
 ![Map](https://i.imgur.com/VTHwtbQ.png)
@@ -294,7 +294,7 @@ UCTF{1_4m_14k3_u2m14}
 
 > Sorry for bothering you again! We forgot to  retrieve some valuable assets the last time. They have changed their  captcha system, I think they know that we know about OCRs :)
 
-###### OxManual 
+#### OxManual 
 
 From the first captcha challenge, I deduced the url https://captcha1.uctf.ir/  to captcha2*
 

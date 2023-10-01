@@ -2,40 +2,40 @@
 
 Solved Challenges:
 
-### Misc
+## Misc
 -  Warm Up
 -  Appellations
 -  Any Questions?
 
-### Forensics
+## Forensics
 -  HTTPS Decryption
 -  Hidden Streams
 -  Deleted Message
 -  Network Punk
 
 
-### OSINT
+## OSINT
 -  Cryptic Mansion
 
-### Steganography
+## Steganography
 -  Dorna
 -  Deb File The Old Systems
   
-### Cryptography
+## Cryptography
 -  Insider's Secret
   
-### Web
+## Web
 -   captcha2 the Missing Lake 2
 
   
-### Warm Up
+## Warm Up
 Category: Warmup
 
 ![Imgur](https://i.imgur.com/r1S2B4B.png)
 
 flag: `UCTF{W3lc0m3_t0_URMIA}`
 
-### Appellations
+## Appellations
 Category: MISC
 
 ![Imgur](https://i.imgur.com/rPfjNAA.png)
@@ -50,7 +50,7 @@ I used [morsecode.world](https://morsecode.world) for this as the site can conve
 
 flag: UCTF{7U2QU01535011741230F4242841J4N}
 
-### Any Questions
+## Any Questions
 Category: MISC
 
 ![Imgur](https://i.imgur.com/h76LtiK.png)
@@ -76,7 +76,7 @@ As requested by the challenge, we are required to submit the MD5 hash of the key
 
 flag: UCTF{ceb20772e0c9d240c75eb26b0e37abee}
 
-### HTTPS Decryption
+## HTTPS Decryption
 Category: Forensics
 
 ![Imgur](https://i.imgur.com/ZSsMol0.png)
@@ -99,7 +99,7 @@ By following the steps, the traffic will be decrypted and flag can be found in p
 
 flag: `uctf{St. _Sarkis_Church}`
 
-### Hidden Streams
+## Hidden Streams
 Category: Forensics
 
 ![Imgur](https://i.imgur.com/mOdRo9g.png)
@@ -109,16 +109,16 @@ Category: Forensics
 Attached file: stream-ctf.zip
 Summary: You have to open a Microsoft Disk Image and retrieve the flag
 
-#### Unzipping the ZIP
+### Unzipping the ZIP
 The zip file unzipped gave `stream-ctf.vhd` file which was a `Microsoft Disk Image, Virtual Server or Virtual PC, Creator win  a.0 (W2k) Tue Aug 15 07:26:30 2023, 33554432 bytes, CHS 963/4/17` (file command).
 
-#### Digging for files
+### Digging for files
 I loaded Autopsy to see if I can find files in it. I found 2 files related to the flag; flag.zip and flag.zip:look-behind.
 Since files are arranged alphabetically on autopsy, I indeed looked behind. Flag.zip was a text file containing `password:Atoosa` while `flag.zip:look-behind` was an actual zip file. I extracted the content with the provided password and I got `uctf_flag.txt` file which contains the flag.
 
 flag: `uctf{St. Mary Church}`
 
-### Deleted Message
+## Deleted Message
 Category: Forensics
 
 ![Imgur](https://i.imgur.com/5EPHNME.png)
@@ -126,14 +126,14 @@ Category: Forensics
 > Cyber Police have seized a computer containing illegal content, but the data stored is secured with a password. A member of the criminal organization owning the computer was  arrested. Police suspect that the password was sent to the criminal via  SMS, but the message was deleted right before the arrest. You're given a dump of the data partition of the phone (running  Android 6.0). Your job as the forensic specialist is to recover the  deleted password.
  
  Attachment: data.tar.gz
-#### Data extraction
+### Data extraction
 I extracted the tar gzip file which contains the data partition of the phone. App data is normally stored in the data directory, so I went for it first. I found com.android.messaging.
  
 For messsages, there was a `databases` directory and we have `bugle_db-journal` and `bugle_db` which contains the database of messages. I found the flag in table `parts` and column `texts`
 
 flag: `uctf{l057_1n_urm14}`
 
-### Network Punk
+## Network Punk
 Category: Forensics
 
 ![Imgur](https://i.imgur.com/ogvzT7C.png)
@@ -148,7 +148,7 @@ I didn't bother to open it. I ran strings and found junks in the output, I ran s
 
 flag: `uctf{urm14_n3tw0rk}`
 
-### Cryptic Mansion
+## Cryptic Mansion
 Category: OSINT
 > 🏰 Cryptic Mansion
 > 🕵️‍♂️ Welcome, intrepid digital detectives, to the "Cryptic Mansion"  challenge! Are you ready to put your OSINT skills to the ultimate test?  Get ready to embark on a virtual journey that will lead you through  twists and turns, all while unveiling the secrets hidden within a single  image.
@@ -180,7 +180,7 @@ File attached: Mansion.jpg
 ![Imgur](https://i.imgur.com/zSVOewE.jpg)
  Mansion.jpg
 
-#### Mansion, where are you??
+### Mansion, where are you??
 
 I started by doing a reverse image search using tineye.com. I got the name of the building through an article by **asriran.com**. The site language was in Persian and I used google webpage translate to get it in English (I don't understand Persian :P). 
 
@@ -189,7 +189,7 @@ The article called this building **the Villa of Ashraf Pahlavi and Behrouz Vosto
 ![Article](https://i.imgur.com/BBWpoes.png)
 Screenshot from Translated article
 
-#### Give me your number o‿O
+### Give me your number o‿O
 I searched on google maps for the villa, I ended up with this coordinates which can be gotten by right-clicking on the map pin. Coordinates: 37.496805716848954, 45.63767444207702 .
 
 ![Map](https://i.imgur.com/VTHwtbQ.png)
@@ -202,7 +202,7 @@ References
 2. Translated article [link](https://www-asriran-com.translate.goog/fa/news/298249/%D9%88%DB%8C%D9%84%D8%A7%DB%8C-%D8%A7%D8%B4%D8%B1%D9%81-%D9%BE%D9%87%D9%84%D9%88%DB%8C-%D9%88-%D8%A8%D9%87%D8%B1%D9%88%D8%B2-%D9%88%D8%AB%D9%88%D9%82%DB%8C-%D8%AF%D8%B1-%D9%88%D8%B3%D8%B7-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 3. Google map [link](https://www.google.com/maps/place/37%C2%B029'48.5%22N+45%C2%B038'15.6%22E/@37.4968092,45.6355627,541m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d37.4968057!4d45.6376744?entry=ttu)
    
-### Dorna
+## Dorna
 Category: Steganography
 
 ![Imgur](https://i.imgur.com/bJ7XTJF.png)
@@ -242,7 +242,7 @@ flag is given but the main text encoded in base64. Decryption gave the flag.
  
 flag `uctf{dorna_lar_yovasi}`
 
-### Deb File The Old Systems
+## Deb File The Old Systems
 Category: Steganography
 
 ![Imgur](https://i.imgur.com/2fLftLg.png)
@@ -271,7 +271,7 @@ So I proceeded with the instructions. The binary generates a temporary file and 
 
 flag: `UCTF{c4n_p3n6u1n5_5urv1v3_1n_54l7_w473r}`
 
-### Insider's Secret
+## Insider's Secret
 Category: Cryptography
 
 ![Imgur](https://i.imgur.com/qYLJp47.png)
@@ -293,13 +293,13 @@ UCTF{1_4m_14k3_u2m14}
  
  flag: `UCTF{1_4m_14k3_u2m14}`
 
-### captcha2 the Missing Lake 2
+## captcha2 the Missing Lake 2
 
 ![Imgur](https://i.imgur.com/jgdGfnn.png)
 
 > Sorry for bothering you again! We forgot to  retrieve some valuable assets the last time. They have changed their  captcha system, I think they know that we know about OCRs :)
 
-#### OxManual 
+### OxManual 
 
 From the first captcha challenge, I deduced the url https://captcha1.uctf.ir/  to captcha2*
 

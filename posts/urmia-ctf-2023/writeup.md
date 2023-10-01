@@ -27,7 +27,7 @@ Category: Warmup
 
 flag: `UCTF{W3lc0m3_t0_URMIA}`
 
-### Appelations
+### Appellations
 Category: MISC
 
 ![Imgur](https://i.imgur.com/rPfjNAA.png)

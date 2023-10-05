@@ -40,6 +40,11 @@ if __name__ == "__main__":
     merge_hex_files(file_prefix, num_parts, output_path)
 
 ```
+or just this command
+
+```bash
+$ cat * > finalflag.png
+```
 
 Success, it appended each file to flag_aa as they were named alphabetically...
 

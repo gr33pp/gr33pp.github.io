@@ -490,7 +490,10 @@ flag: `flag{we_can_call_this_xss_level_0}`
 
 ![imagw](https://i.imgur.com/09ijYSg.png)
 
->The flag is formatted normally with the flag{...} format. Use this to your advantage when cracking the 7 character key and decrypting the flag. IAUPA1sVCjQ2HhFUHjoyAQs7UBgLGQAAO1AYCxkLDxdFCTogBQ8DXQ==
+>The flag is formatted normally with the flag{...} format. Use this to your advantage when cracking the 7 character key and decrypting the flag.
+
+``` IAUPA1sVCjQ2HhFUHjoyAQs7UBgLGQAAO1AYCxkLDxdFCTogBQ8DXQ==
+```
 
 Since it is known that the key length is 7 characters and the result is in flag{....}, it gives a better look into decrypting this.
 

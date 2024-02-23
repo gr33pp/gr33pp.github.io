@@ -257,7 +257,9 @@ flag: `EcoWAS{Let_me_try_RSA}`
 
 > eXclusive ^. Check it out!
 
-> IConIT0+KTQZNjMyNRkyLiMZIDMoGS8oGSAzKCInKyMoMicqOw==
+```
+IConIT0+KTQZNjMyNRkyLiMZIDMoGS8oGSAzKCInKyMoMicqOw==
+```
 
 The tip says exclusive ^ . What came to my mind was exclusive OR gate. The flag was encoded in base 64, so I decrypted that and ran XOR bruteforce since the key is unknown
 
